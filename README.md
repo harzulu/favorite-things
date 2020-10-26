@@ -1,35 +1,35 @@
 # Favorite Things Webpage
 
-## [Brief summary], [Current version date]
+## crate a list of favorite things, 10-26-2020
 
-### [All Authors]
+### Ben McFarland, Joe Nero
 
-[Deatiled full description of the whole program]
+Takes in inputed favorite things and outputs a list of them
 
 ## Setup/Installation Requirements
 
-* [Item 1]
-* [Item 2]
-* [Item 3]
 
-[Intallation description]
 
 ## Known Bugs/Issues
 
-[Description of all known bugs and issues]
+no known bugs
 
 ## Support and Contact Details
 
-[Where/who to go to if there are any questions or comments]
+benrmcfarland@gmail.com
+josephnero111@gmail.com
 
 ## Technology Used
 
-* [Language 1]
-* [Language 2]
-* [Software 1]
+* VS Code
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* Bootstrap
 
 ## Licenseing and Copyright
 
-[Determine the license which this application can be under (Typically MIT or GPL)]
+Licensed under the GPL license
 
-Copyright (c) 20-- [List of authors/company(s)]
+Copyright (c) 2020 Ben McFarland, Joe Nero
